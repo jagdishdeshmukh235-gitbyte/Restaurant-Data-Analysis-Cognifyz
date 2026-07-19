@@ -1,4 +1,8 @@
-# 🍽️ Restaurant Data Analysis & Business Insights
+<p align="center">
+  <img src="assets/banner.png" alt="Restaurant Data Analysis Banner" width="100%">
+</p>
+
+# 🍽️ Restaurant Data Analysis & Business Insights# 🍽️ Restaurant Data Analysis & Business Insights
 
 > A comprehensive Data Science project analyzing restaurant data using Python. This project includes Exploratory Data Analysis (EDA), Geospatial Analysis, Feature Engineering, Machine Learning, Customer Preference Analysis, and Data Visualization.
 
